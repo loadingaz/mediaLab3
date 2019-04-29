@@ -43,4 +43,4 @@ Proxy http to https:
 
 
 Tested with Mozilla Firefox 65.0.1 and Google Chrome 72.0.3626.119
-You can test it on https://loadingaz.github.io/mediaLab3/src/  
+You can test it on https://loadingaz.github.io/mediaLab3/src/
